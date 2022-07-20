@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625862428 source:c:\users\porti\documents\guia practica prog\calculdora2 tpprog1-grupo03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
